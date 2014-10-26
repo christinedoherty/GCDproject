@@ -3,7 +3,7 @@ GCDproject
 
 This is my course project for Getting and Cleaning Data
 
-Here are the steps I took to combine, manipulate and trasnform the Human Activity Recognition Using Smartphones Samsung data sets and produce a tidy data set of the averages of all measurements for each subject/activity pair.
+Here are the steps I took to combine, manipulate and transform the Human Activity Recognition Using Smartphones Samsung data sets and produce a tidy data set of the averages of all measurements for each subject/activity pair.
 
 - I download data files at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 - I unzipped files and copied into my working directory.
