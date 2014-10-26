@@ -37,4 +37,4 @@ To view results:
 - At the command prompt, enter: View(data)
 - You should be able to see a tidy data table with 180 observations and 68 variables.
 
-(Steps to view data borrowed from David's project FAQ, https://class.coursera.org/getdata-008/forum/thread?thread_id=24)
+(Steps to read in data file and view data are borrowed from David's project FAQ, https://class.coursera.org/getdata-008/forum/thread?thread_id=24)
