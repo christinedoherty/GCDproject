@@ -3,7 +3,7 @@ Code Book for subject_activity_averages data file
 
 General Description:
 
-This is the list of variables in the 'subject_activity_averages.txt' data file. The variable descriptions come mostly from the original data packages 'features_info.txt' file and are adjusted somewhat to convey the average computations applied to the measurements. The variable names have been tweaked to comply with R style guidelines for tidy data. I chose to use CamelCase for variable names, as I find that easier to read at a glance.
+This is the list of variables in the 'subject_activity_averages.txt' data file. The variable descriptions come mostly from the original data packages 'features_info.txt' file and are adjusted somewhat to convey the average computations applied to the measurements. The variable names have been tweaked to comply with R style guidelines for tidy data. I chose to use CamelCase for variable names, as I find that easier to read at a glance. I also removed the doubling of Body in some variable names.
 
 - Subject - ID number for the subject who performed the activity, range 1-30.
 - ActivityName - 6 different activities performed by subjects, in the following order: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
@@ -67,11 +67,11 @@ This is the list of variables in the 'subject_activity_averages.txt' data file. 
 - frequencyBodyGyroStdZ - Average of the frequency domain body gyroscopic standard deviation measurements in the Z direction for a Subject/Activity pair
 - frequencyBodyAccMagMean - Average of the frequency domain body acceleration magnitude mean measurements for a Subject/Activity pair
 - frequencyBodyAccMagStd - Average of the frequency domain body acceleration magnitude standard deviation measurements for a Subject/Activity pair
-- frequencyBodyBodyAccJerkMagMean - Average of the frequency domain body acceleration jerk magnitude mean measurements for a Subject/Activity pair
-- frequencyBodyBodyAccJerkMagStd - Average of the frequency domain body acceleration jerk magnitude standard deviation measurements for a Subject/Activity pair
-- frequencyBodyBodyGyroMagMean - Average of the frequency domain body gyroscopic magnitude mean measurements for a Subject/Activity pair
-- frequencyBodyBodyGyroMagStd - Average of the frequency domain body gyroscopic magnitude standard deviation measurements for a Subject/Activity pair
-- frequencyBodyBodyGyroJerkMagMean - Average of the frequency domain body gyroscopic jerk magnitude mean measurements for a Subject/Activity pair
-- frequencyBodyBodyGyroJerkMagStd - Average of the frequency domain body gyroscopic jerk magnitude standard deviation measurements for a Subject/Activity pair
+- frequencyBodyAccJerkMagMean - Average of the frequency domain body acceleration jerk magnitude mean measurements for a Subject/Activity pair
+- frequencyBodyAccJerkMagStd - Average of the frequency domain body acceleration jerk magnitude standard deviation measurements for a Subject/Activity pair
+- frequencyBodyGyroMagMean - Average of the frequency domain body gyroscopic magnitude mean measurements for a Subject/Activity pair
+- frequencyBodyGyroMagStd - Average of the frequency domain body gyroscopic magnitude standard deviation measurements for a Subject/Activity pair
+- frequencyBodyGyroJerkMagMean - Average of the frequency domain body gyroscopic jerk magnitude mean measurements for a Subject/Activity pair
+- frequencyBodyGyroJerkMagStd - Average of the frequency domain body gyroscopic jerk magnitude standard deviation measurements for a Subject/Activity pair
 
 
