@@ -1,7 +1,7 @@
 ## Getting and Cleaning Data Course Project
 ## Christine Doherty
 
-## Istall dplyr package if not already installed
+## Install dplyr package if not already installed
 install.packages("dplyr")
 
 ## Load dplyr library
